@@ -1,3 +1,5 @@
+# solution is based on "Sum of two squares theorem" and the prime factorization of 420 = 4 * 3 * 5 * 7
+
 from utils import compute_time
 
 P_LIM = 5 * 10 ** 6
